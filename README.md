@@ -199,7 +199,7 @@ Distance is calculated using the **Haversine Formula** for accurate GPS-based di
 
 * <img width="960" height="438" alt="Screenshot 2026-06-23 132740" src="https://github.com/user-attachments/assets/150e90c7-dee1-4191-ac3e-0738e575f8be" />
 
-* <img width="960" height="433" alt="Screenshot 2026-06-23 132804" src="https://github.com/user-attachments/assets/625fa782-9095-480c-8eb9-f3db3e2ef5b6" />
+* <img width="960" height="433" alt="Screenshot 2026-06-23 132804" src="https://github.com/user-attachments/assets/625fa782-9095-480c-8eb9-f3db3e2ef5b6" /> 
 
 Git Repo - 
 
