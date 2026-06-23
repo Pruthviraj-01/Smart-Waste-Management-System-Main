@@ -183,23 +183,30 @@ Distance is calculated using the **Haversine Formula** for accurate GPS-based di
 ## Project Screenshots
 
 1 Home Page -
-* <img width="960" height="441" alt="image" src="https://github.com/user-attachments/assets/a30b538b-07d0-4782-a5e8-f3f8b3841e3b" />
+* <img width="960" height="441" alt="Screenshot 2026-06-23 131845" src="https://github.com/user-attachments/assets/bfd72393-6b8e-4553-acbb-b8a41e3b8696" />
+
 
 2 Live Map Page -
-* <img width="959" height="440" alt="image" src="https://github.com/user-attachments/assets/4b3fd678-be06-4773-ba18-8c0c45f93d19" />
+* <img width="959" height="440" alt="image" src="https://github.com/user-attachments/assets/2a137322-804a-477c-a20b-75f6f4b238d6" />
+
 
 3 Dashboard Page -
-* <img width="960" height="437" alt="image" src="https://github.com/user-attachments/assets/5377effd-1294-45d9-a00a-0ae025dd5c82" />
+* <img width="960" height="437" alt="image" src="https://github.com/user-attachments/assets/c9475715-6c89-4783-aa8a-dbe0d5c559d3" />
+
 
 4 Bin Moniter Page -
-* <img width="960" height="449" alt="Screenshot 2026-06-23 132545" src="https://github.com/user-attachments/assets/4aac2b01-85b2-4ddb-9cba-a07bd413ff64" />
+* <img width="960" height="449" alt="image" src="https://github.com/user-attachments/assets/3dd9ed9d-9f1b-4702-b501-84299abff3bb" />
+
 
 5 Report Page -
-* <img width="960" height="437" alt="Screenshot 2026-06-23 132709" src="https://github.com/user-attachments/assets/db976794-f636-42e6-a1b0-87958bec1990" />
+* <img width="960" height="437" alt="image" src="https://github.com/user-attachments/assets/5c3c5c94-0792-45a4-a69c-8b3c520ccbb8" />
 
-* <img width="960" height="438" alt="Screenshot 2026-06-23 132740" src="https://github.com/user-attachments/assets/150e90c7-dee1-4191-ac3e-0738e575f8be" />
 
-* <img width="960" height="433" alt="Screenshot 2026-06-23 132804" src="https://github.com/user-attachments/assets/625fa782-9095-480c-8eb9-f3db3e2ef5b6" /> 
+* <img width="960" height="438" alt="Screenshot 2026-06-23 132740" src="https://github.com/user-attachments/assets/1e405705-defd-4537-97ab-73d644d4408b" />
+
+
+* <img width="960" height="433" alt="Screenshot 2026-06-23 132804" src="https://github.com/user-attachments/assets/06bebebf-ff01-4ad2-a969-ab9b18862c8b" />
+
 
 Git Repo - 
 
