@@ -216,5 +216,8 @@ Demo Video- https://drive.google.com/file/d/1sjxZNxwOZEODcNOUJlsZnVwx4eiI0D23/vi
 
 **Your Name**
 Prithviraj Prashant Nimbalkar
-Mooc Course Project — IoT / Smart Cities / Web Development
+
+Mooc Course Project — IoT (Internet Of Things)
+
 SmartInternz Externship Program — 2026
+
