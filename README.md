@@ -216,4 +216,4 @@ Demo Video- https://drive.google.com/file/d/1OwLa97n2w0KFCPWFcfSKB_4p0ZOPHL4q/vi
 
 **Your Name**
 Final Year Project — IoT / Smart Cities / Web Development
-SmartInternz Externship Program — 2024
+SmartInternz Externship Program — 2026
