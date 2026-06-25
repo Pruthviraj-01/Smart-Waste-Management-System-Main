@@ -210,10 +210,11 @@ Distance is calculated using the **Haversine Formula** for accurate GPS-based di
 
 Git Repo - https://github.com/Pruthviraj-01/Smart-Waste-Management-System-Main.git
 
-Demo Video- https://drive.google.com/file/d/1OwLa97n2w0KFCPWFcfSKB_4p0ZOPHL4q/view?usp=sharing 
+Demo Video- https://drive.google.com/file/d/1sjxZNxwOZEODcNOUJlsZnVwx4eiI0D23/view?usp=sharing 
 
 ## 👤 Author
 
 **Your Name**
-Final Year Project — IoT / Smart Cities / Web Development
+Prithviraj Prashant Nimbalkar
+Mooc Course Project — IoT / Smart Cities / Web Development
 SmartInternz Externship Program — 2026
